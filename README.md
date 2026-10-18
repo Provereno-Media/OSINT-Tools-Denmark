@@ -3,7 +3,7 @@
 A list of OSINT resources and tools that may be useful to you when conducting investigations related to Denmark. Most of the resources and tools has versions in Danish, some also in English. Since 1 September 2025, beneficial-owner (reelle ejere) data in the CVR register is no longer open to the public: access requires MitID login and a declared legitimate interest, following the CJEU judgment of 22 November 2022 (C-37/20, C-601/20). Several portals could block access via VPN or proxy. Enter names with Danish letters (æ, ø, å).
 
 
-**Last Updated:** 2026-10-13
+![Last updated](https://img.shields.io/github/last-commit/Provereno-Media/OSINT-Tools-Denmark?label=Last%20updated)
 
 ## Contributions
 Feel free to join this project — [OSINT For Countries V2.0](https://github.com/Provereno-Media/OSINT-for-countries-V2.0)
